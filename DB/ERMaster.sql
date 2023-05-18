@@ -115,7 +115,7 @@ CREATE TABLE qna
 	id varchar2(20) NOT NULL,
 	subject varchar2(100) NOT NULL,
 	content varchar2(1000) NOT NULL,
-	reply varchar2(0),
+	reply varchar2(1000),
 	rep char(1) DEFAULT '1',
 	indate date DEFAULT sysdate,
 	PRIMARY KEY (qseq)
