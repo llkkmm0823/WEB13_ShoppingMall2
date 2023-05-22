@@ -47,7 +47,7 @@
 		<a href="${action}&page=${paging.endPage+1}">▶</a>&nbsp;
 	</c:if>
 </div>
-
+<!--  -->
 <div class="clear"></div><br>
 
 <div id="buttons" style="float:right">
