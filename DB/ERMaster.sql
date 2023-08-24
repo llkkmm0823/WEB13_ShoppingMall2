@@ -1,4 +1,4 @@
-
+/*덤프로 백업*/
 /* Drop Triggers */
 
 DROP TRIGGER TRI_qna_qseq;
